@@ -97,6 +97,7 @@ input:focus{
     justify-content: space-between;
     align-items: center;
     padding: 1rem 1rem;
+    text-align: justify;
 }
 
 .mainBlock__usersBlock__usersList__userInfo__container{
